@@ -1,0 +1,21 @@
+=== PERSONAL MINI-TOOLKIT PLAN ===
+
+Tools Chosen:
+1. Number Guessing Game: A fun game where the user tries to guess a randomly generated secret number between 1 and 10 with hints.
+2. To-Do List Manager: A dynamic list manager that lets users view, add, and remove tasks during runtime.
+3. Temperature Converter: A utility that converts temperature values between Celsius and Fahrenheit using conversion formulas.
+
+Menu Text:
+==============================
+      PERSONAL MINI-TOOLKIT    
+==============================
+1. Number Guessing Game
+2. To-Do List Manager
+3. Temperature Converter
+4. Quit
+Enter your choice (1-4):
+
+Concepts Used per Tool:
+- Number Guessing Game: Loops (while), conditionals (if/elif/else), random module, and f-strings.
+- To-Do List Manager: Lists (append, remove), loops (while), input/output, and f-strings.
+- Temperature Converter: Conditionals (if/elif/else), float conversions, math operations, and f-strings.
